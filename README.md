@@ -1,0 +1,1 @@
+This is React Native app with backend
